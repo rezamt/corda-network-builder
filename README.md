@@ -1,4 +1,4 @@
-# Corda Network Builder version 4.1
+# Corda Network Builder 5.x - Corda 4.1
 
 I have compiled the network builder from corda/tools/network-builder
 
